@@ -1,11 +1,11 @@
 {
-    "name": "konekt/pdf-invoice",
+    "name": "grabas/pdf-invoice",
     "description": "Library to generate PDF invoices",
     "type": "library",
     "license": "GPL-2.0-or-later",
     "keywords": ["invoice", "pdf", "konekt", "artkonekt"],
     "support": {
-        "source": "https://github.com/artkonekt/pdf-invoice"
+        "source": "https://github.com/konekt/pdf-invoice"
     },
     "authors": [
         {
